@@ -1,3 +1,9 @@
+# TodoList
+
+This is a react app that enables a user to create a ToDoList and check if completed and also delete it from dashboard
+
+![ToDoList](ToDoList.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
